@@ -1,0 +1,19 @@
+{
+  "slug": "mcp-slack_android",
+  "repo": "mcp-slack_android-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/mcp-slack_android-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "slack-android"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/mcp-slack_android"
+}
